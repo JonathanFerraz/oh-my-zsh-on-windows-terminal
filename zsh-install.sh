@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script de instalação - ZSH shell
-# Autor: ErickRock
+# Autor: Jonathan Ferraz
 # Descrição: Instalação do Oh-my-zsh shell padrão
 
 cd ~ || exit
